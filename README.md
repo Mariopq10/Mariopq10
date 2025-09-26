@@ -27,7 +27,6 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mariopq10&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)  
 
-![Tus stats](https://github-readme-stats.vercel.app/api?username=Mariopq10&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariopq10&layout=compact&theme=tokyonight&langs_count=6&exclude_repo=AppTorremolinos,Android-studio,Proyecto,Datos-y-Procesos,Lenguaje_marcas_mpq)
 
 
